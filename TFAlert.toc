@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: |cffff7d0aTF|rAlert |cff00ff98Turtle
+## Notes: Notifies you when Tiger's Fury is not up in Cat Form. Adapted from BSAlert-TW by FSuhas (GondoLeon). Concept by Wonky.
+## Author: FSuhas (GondoLeon), adapted for Tiger's Fury by Wonky & community
+## Version: 1.0.0
+## SavedVariables: TFAlertDB, BSAlertDB
+
+TFAlert.lua
+TFAlert.xml
